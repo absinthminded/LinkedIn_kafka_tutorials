@@ -1,4 +1,4 @@
-package com.github.absinthminded.kafka.tutorial;
+package com.github.absinthminded.kafka.tutorial.producers;
 
 import static org.apache.kafka.clients.producer.ProducerConfig.BOOTSTRAP_SERVERS_CONFIG;
 import static org.apache.kafka.clients.producer.ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG;
